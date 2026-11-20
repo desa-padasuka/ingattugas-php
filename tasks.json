@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "course": "Pemrograman Web",
+    "name": "Membuat Aplikasi Web",
+    "deadline": "2026-11-21T23:59",
+    "progress": 50,
+    "email": "emailanda@gmail.com",
+    "emailedH1": false
+  }
+]
